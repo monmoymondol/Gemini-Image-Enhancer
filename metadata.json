@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Enhancer",
+  "description": "Upload an image and use text prompts to edit and enhance it with the Gemini 2.5 Flash Image model. Make your pictures crystal clear, add filters, remove objects, and more.",
+  "requestFramePermissions": []
+}
